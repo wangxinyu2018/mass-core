@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ylpool/mass-core/interfaces"
-	"github.com/ylpool/mass-core/poc"
+	"github.com/wangxinyu2018/mass-core/interfaces"
+	"github.com/wangxinyu2018/mass-core/poc"
 )
 
 var tstGenesisCoinbaseTx = MsgTx{

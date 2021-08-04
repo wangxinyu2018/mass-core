@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ylpool/mass-core/database/storage"
-	_ "github.com/ylpool/mass-core/database/storage/ldbstorage"
-	_ "github.com/ylpool/mass-core/database/storage/rdbstorage"
+	"github.com/wangxinyu2018/mass-core/database/storage"
+	_ "github.com/wangxinyu2018/mass-core/database/storage/ldbstorage"
+	_ "github.com/wangxinyu2018/mass-core/database/storage/rdbstorage"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -1,7 +1,7 @@
 package p2p
 
 import (
-	"github.com/ylpool/mass-core/p2p/connection"
+	"github.com/wangxinyu2018/mass-core/p2p/connection"
 	cmn "github.com/massnetorg/tendermint/tmlibs/common"
 )
 

@@ -10,10 +10,10 @@ import (
 	"sync"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/trie/common"
-	"github.com/ylpool/mass-core/trie/massdb"
-	triepb "github.com/ylpool/mass-core/trie/pb"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/trie/common"
+	"github.com/wangxinyu2018/mass-core/trie/massdb"
+	triepb "github.com/wangxinyu2018/mass-core/trie/pb"
 )
 
 var ErrCommitDisabled = errors.New("no database for committing")

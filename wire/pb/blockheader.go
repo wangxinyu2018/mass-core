@@ -6,7 +6,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ylpool/mass-core/poc"
+	"github.com/wangxinyu2018/mass-core/poc"
 )
 
 func (m *BlockHeader) Write(w io.Writer) (int, error) {

@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ylpool/mass-core/poc"
-	"github.com/ylpool/mass-core/poc/pocutil"
-	"github.com/ylpool/mass-core/pocec"
+	"github.com/wangxinyu2018/mass-core/poc"
+	"github.com/wangxinyu2018/mass-core/poc/pocutil"
+	"github.com/wangxinyu2018/mass-core/pocec"
 )
 
 func TestEnsureBitLength(t *testing.T) {

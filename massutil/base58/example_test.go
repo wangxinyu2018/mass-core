@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"github.com/ylpool/mass-core/massutil/base58"
+	"github.com/wangxinyu2018/mass-core/massutil/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

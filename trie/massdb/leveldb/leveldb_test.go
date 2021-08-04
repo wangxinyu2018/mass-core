@@ -19,8 +19,8 @@ package leveldb
 import (
 	"testing"
 
-	"github.com/ylpool/mass-core/trie/massdb"
-	"github.com/ylpool/mass-core/trie/massdb/dbtest"
+	"github.com/wangxinyu2018/mass-core/trie/massdb"
+	"github.com/wangxinyu2018/mass-core/trie/massdb/dbtest"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/storage"
 )

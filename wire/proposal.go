@@ -7,8 +7,8 @@ import (
 	"io"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/ylpool/mass-core/interfaces"
-	wirepb "github.com/ylpool/mass-core/wire/pb"
+	"github.com/wangxinyu2018/mass-core/interfaces"
+	wirepb "github.com/wangxinyu2018/mass-core/wire/pb"
 )
 
 const (

@@ -3,8 +3,8 @@ package netsync
 import (
 	"time"
 
-	"github.com/ylpool/mass-core/errors"
-	"github.com/ylpool/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/errors"
+	"github.com/wangxinyu2018/mass-core/massutil"
 )
 
 // Reject block from far future (3 seconds for now)

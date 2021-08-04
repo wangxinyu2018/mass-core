@@ -3,8 +3,8 @@ package mock
 import (
 	"fmt"
 
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 func (c *Chain) constructBlock(blk *wire.MsgBlock, hgt uint64) (*wire.MsgBlock, error) {

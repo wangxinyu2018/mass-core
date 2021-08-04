@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/consensus"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/txscript"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/consensus"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/txscript"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 type lUtxoMgr struct {

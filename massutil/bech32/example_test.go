@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/ylpool/mass-core/massutil/bech32"
+	"github.com/wangxinyu2018/mass-core/massutil/bech32"
 )
 
 // This example demonstrates how to decode a bech32 encoded string.

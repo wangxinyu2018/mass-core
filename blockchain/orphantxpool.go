@@ -4,10 +4,10 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 
-	"github.com/ylpool/mass-core/blockchain/orphanpool"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/blockchain/orphanpool"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 const (

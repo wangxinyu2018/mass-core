@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ylpool/mass-core/poc/pocutil/crypto/sha256"
+	"github.com/wangxinyu2018/mass-core/poc/pocutil/crypto/sha256"
 )
 
 func Example_binaryMarshaler() {

@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/pocec"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/pocec"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 type mockConfig struct {
@@ -36,7 +36,7 @@ func initTemplateData(n int) {
 	scriptToWalletKey = make(map[string]*btcec.PrivateKey)
 
 	gopath := os.Getenv("GOPATH")
-	root := filepath.Join(gopath, "src/github.com/ylpool/mass-core")
+	root := filepath.Join(gopath, "src/github.com/wangxinyu2018/mass-core")
 	file1, err := os.Open(filepath.Join(root, "wire/mock/template_data/block.dat"))
 	if err != nil {
 		panic(err)

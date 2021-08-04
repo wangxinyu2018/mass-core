@@ -16,10 +16,10 @@ import (
 	"testing/quick"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ylpool/mass-core/trie/common"
-	"github.com/ylpool/mass-core/trie/massdb"
-	"github.com/ylpool/mass-core/trie/massdb/leveldb"
-	"github.com/ylpool/mass-core/trie/massdb/memorydb"
+	"github.com/wangxinyu2018/mass-core/trie/common"
+	"github.com/wangxinyu2018/mass-core/trie/massdb"
+	"github.com/wangxinyu2018/mass-core/trie/massdb/leveldb"
+	"github.com/wangxinyu2018/mass-core/trie/massdb/memorydb"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/sha3"
 )

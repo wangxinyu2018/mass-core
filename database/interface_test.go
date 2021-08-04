@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ylpool/mass-core/database"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/database"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 // testContext is used to store context information about a running test which

@@ -6,8 +6,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/testutil"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/testutil"
 )
 
 func TestListener(t *testing.T) {

@@ -1,8 +1,8 @@
 package netsync
 
 import (
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/wire"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

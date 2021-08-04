@@ -1,11 +1,11 @@
 package blockchain
 
 import (
-	"github.com/ylpool/mass-core/poc"
+	"github.com/wangxinyu2018/mass-core/poc"
 	"testing"
 
-	"github.com/ylpool/mass-core/interfaces"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/interfaces"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 func TestPunishmentProposal_LessThan(t *testing.T) {

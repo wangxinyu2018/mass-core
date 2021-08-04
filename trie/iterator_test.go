@@ -6,8 +6,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ylpool/mass-core/trie/common"
-	"github.com/ylpool/mass-core/trie/massdb/memorydb"
+	"github.com/wangxinyu2018/mass-core/trie/common"
+	"github.com/wangxinyu2018/mass-core/trie/massdb/memorydb"
 )
 
 func TestIterator(t *testing.T) {

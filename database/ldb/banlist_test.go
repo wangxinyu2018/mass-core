@@ -3,8 +3,8 @@ package ldb_test
 import (
 	"testing"
 
-	"github.com/ylpool/mass-core/database/storage"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/database/storage"
+	"github.com/wangxinyu2018/mass-core/wire"
 	"github.com/stretchr/testify/assert"
 )
 

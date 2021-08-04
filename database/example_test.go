@@ -3,10 +3,10 @@ package database_test
 import (
 	"fmt"
 
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/database"
-	"github.com/ylpool/mass-core/database/memdb"
-	"github.com/ylpool/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/database"
+	"github.com/wangxinyu2018/mass-core/database/memdb"
+	"github.com/wangxinyu2018/mass-core/massutil"
 )
 
 // This example demonstrates creating a new database and inserting the genesis

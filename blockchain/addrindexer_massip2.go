@@ -1,10 +1,10 @@
 package blockchain
 
 import (
-	"github.com/ylpool/mass-core/blockchain/state"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/txscript"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/blockchain/state"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/txscript"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 //

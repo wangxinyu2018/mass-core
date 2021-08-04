@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ylpool/mass-core/poc/chiapos"
+	"github.com/wangxinyu2018/mass-core/poc/chiapos"
 	"github.com/stretchr/testify/require"
 )
 

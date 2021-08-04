@@ -1,6 +1,6 @@
 package ldb
 
-import "github.com/ylpool/mass-core/errors"
+import "github.com/wangxinyu2018/mass-core/errors"
 
 var (
 	ErrWrongScriptHashLength  = errors.New("length of script hash error")

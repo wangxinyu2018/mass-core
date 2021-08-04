@@ -8,8 +8,8 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/ylpool/mass-core/pocec"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/pocec"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 // This example demonstrates signing a message with a secp256k1 private key that

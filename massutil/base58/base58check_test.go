@@ -7,7 +7,7 @@ package base58_test
 import (
 	"testing"
 
-	"github.com/ylpool/mass-core/massutil/base58"
+	"github.com/wangxinyu2018/mass-core/massutil/base58"
 )
 
 var checkEncodingStringTests = []struct {

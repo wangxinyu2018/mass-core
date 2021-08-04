@@ -7,8 +7,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ylpool/mass-core/trie/common"
-	wirepb "github.com/ylpool/mass-core/wire/pb"
+	"github.com/wangxinyu2018/mass-core/trie/common"
+	wirepb "github.com/wangxinyu2018/mass-core/wire/pb"
 )
 
 // HashSize is the array size used to store sha hashes.  See Hash.

@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ylpool/mass-core/database"
-	_ "github.com/ylpool/mass-core/database/ldb"
-	_ "github.com/ylpool/mass-core/database/memdb"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/database"
+	_ "github.com/wangxinyu2018/mass-core/database/ldb"
+	_ "github.com/wangxinyu2018/mass-core/database/memdb"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 var zeroHash = wire.Hash{}

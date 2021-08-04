@@ -5,8 +5,8 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/ylpool/mass-core/consensus"
-	"github.com/ylpool/mass-core/massutil/safetype"
+	"github.com/wangxinyu2018/mass-core/consensus"
+	"github.com/wangxinyu2018/mass-core/massutil/safetype"
 )
 
 var (

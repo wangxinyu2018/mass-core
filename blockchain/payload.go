@@ -6,11 +6,11 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/poc/chiapos"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/poc/chiapos"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 /////////////////////////////

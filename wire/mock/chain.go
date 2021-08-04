@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 var (

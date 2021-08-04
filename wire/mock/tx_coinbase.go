@@ -4,18 +4,18 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	"github.com/ylpool/mass-core/interfaces"
+	"github.com/wangxinyu2018/mass-core/interfaces"
 	"math"
 	"math/rand"
 	"time"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/consensus"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/massutil/safetype"
-	"github.com/ylpool/mass-core/txscript"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/consensus"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/massutil/safetype"
+	"github.com/wangxinyu2018/mass-core/txscript"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 var (

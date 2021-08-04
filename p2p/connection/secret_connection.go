@@ -10,7 +10,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/ylpool/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/logging"
 	"github.com/massnetorg/tendermint/go-crypto"
 	"github.com/massnetorg/tendermint/go-wire"
 	cmn "github.com/massnetorg/tendermint/tmlibs/common"

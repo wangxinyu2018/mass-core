@@ -4,9 +4,9 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ylpool/mass-core/consensus"
-	"github.com/ylpool/mass-core/poc/chiapos"
-	"github.com/ylpool/mass-core/poc/pocutil"
+	"github.com/wangxinyu2018/mass-core/consensus"
+	"github.com/wangxinyu2018/mass-core/poc/chiapos"
+	"github.com/wangxinyu2018/mass-core/poc/pocutil"
 )
 
 const (

@@ -6,8 +6,8 @@ import (
 	"io"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/ylpool/mass-core/logging"
-	wirepb "github.com/ylpool/mass-core/wire/pb"
+	"github.com/wangxinyu2018/mass-core/logging"
+	wirepb "github.com/wangxinyu2018/mass-core/wire/pb"
 )
 
 // defaultTransactionAlloc is the default size used for the backing array

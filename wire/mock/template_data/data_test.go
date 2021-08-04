@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ylpool/mass-core/blockchain"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/blockchain"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 func Test_CheckData(t *testing.T) {

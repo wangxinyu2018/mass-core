@@ -15,8 +15,8 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 // appDataDir returns an operating system specific directory to be used for

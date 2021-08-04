@@ -3,7 +3,7 @@ package cmdutils
 import (
 	"testing"
 
-	"github.com/ylpool/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/config"
 )
 
 func TestImport(t *testing.T) {

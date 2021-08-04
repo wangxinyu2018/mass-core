@@ -9,8 +9,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/p2p/netutil"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/p2p/netutil"
 	crypto "github.com/massnetorg/tendermint/go-crypto"
 	gowire "github.com/massnetorg/tendermint/go-wire"
 )

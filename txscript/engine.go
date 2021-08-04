@@ -12,9 +12,9 @@ import (
 	"math/big"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/ylpool/mass-core/consensus"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/consensus"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 // halforder is used to tame ECDSA malleability (see BIP0062).

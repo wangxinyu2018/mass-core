@@ -3,9 +3,9 @@ package netsync
 import (
 	"math/rand"
 
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 const (

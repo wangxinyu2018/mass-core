@@ -14,7 +14,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ylpool/mass-core/poc/pocutil/crypto/hash"
+	"github.com/wangxinyu2018/mass-core/poc/pocutil/crypto/hash"
 )
 
 type sha256Test struct {

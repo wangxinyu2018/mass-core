@@ -6,9 +6,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ylpool/mass-core/txscript"
-	"github.com/ylpool/mass-core/wire"
-	wirepb "github.com/ylpool/mass-core/wire/pb"
+	"github.com/wangxinyu2018/mass-core/txscript"
+	"github.com/wangxinyu2018/mass-core/wire"
+	wirepb "github.com/wangxinyu2018/mass-core/wire/pb"
 )
 
 func mockGenesisBlock(timestamp int64, target *big.Int) *wire.MsgBlock {

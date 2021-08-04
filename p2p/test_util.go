@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"net"
 
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/p2p/connection"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/p2p/connection"
 	crypto "github.com/massnetorg/tendermint/go-crypto"
 	cmn "github.com/massnetorg/tendermint/tmlibs/common"
 )

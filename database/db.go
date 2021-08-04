@@ -4,9 +4,9 @@ import (
 	"crypto/sha256"
 	"errors"
 
-	"github.com/ylpool/mass-core/interfaces"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/interfaces"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/wire"
 	"golang.org/x/crypto/ripemd160"
 )
 

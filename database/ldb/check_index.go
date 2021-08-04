@@ -7,12 +7,12 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/ylpool/mass-core/database/storage"
-	"github.com/ylpool/mass-core/errors"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/massutil"
-	"github.com/ylpool/mass-core/txscript"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/database/storage"
+	"github.com/wangxinyu2018/mass-core/errors"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/massutil"
+	"github.com/wangxinyu2018/mass-core/txscript"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 func (db *ChainDb) CheckTxIndex_1_1_0() error {

@@ -5,9 +5,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ylpool/mass-core/interfaces"
-	"github.com/ylpool/mass-core/poc/chiapos"
-	"github.com/ylpool/mass-core/pocec"
+	"github.com/wangxinyu2018/mass-core/interfaces"
+	"github.com/wangxinyu2018/mass-core/poc/chiapos"
+	"github.com/wangxinyu2018/mass-core/pocec"
 )
 
 const (

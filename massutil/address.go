@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/ylpool/mass-core/config"
-	"github.com/ylpool/mass-core/massutil/base58"
-	"github.com/ylpool/mass-core/massutil/bech32"
+	"github.com/wangxinyu2018/mass-core/config"
+	"github.com/wangxinyu2018/mass-core/massutil/base58"
+	"github.com/wangxinyu2018/mass-core/massutil/bech32"
 	"golang.org/x/crypto/ripemd160"
 )
 

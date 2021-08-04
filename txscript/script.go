@@ -9,7 +9,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 var (

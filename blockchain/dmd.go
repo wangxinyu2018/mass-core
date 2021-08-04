@@ -6,11 +6,11 @@ import (
 	"encoding/hex"
 	"sync"
 
-	"github.com/ylpool/mass-core/database"
-	"github.com/ylpool/mass-core/database/storage"
-	"github.com/ylpool/mass-core/interfaces"
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/wire"
+	"github.com/wangxinyu2018/mass-core/database"
+	"github.com/wangxinyu2018/mass-core/database/storage"
+	"github.com/wangxinyu2018/mass-core/interfaces"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/wire"
 )
 
 type DoubleMiningDetector struct {

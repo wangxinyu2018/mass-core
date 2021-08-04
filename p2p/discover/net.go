@@ -8,8 +8,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/ylpool/mass-core/logging"
-	"github.com/ylpool/mass-core/p2p/netutil"
+	"github.com/wangxinyu2018/mass-core/logging"
+	"github.com/wangxinyu2018/mass-core/p2p/netutil"
 	gowire "github.com/massnetorg/tendermint/go-wire"
 	"golang.org/x/crypto/sha3"
 )
