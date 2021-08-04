@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/ylpool/mass-core/massutil"
 )
 
 // TestNewTLSCertPair ensures the NewTLSCertPair function works as expected.

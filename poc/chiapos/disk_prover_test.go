@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc/chiapos"
+	"github.com/ylpool/mass-core/poc/chiapos"
 )
 
 func TestDiskProver(t *testing.T) {

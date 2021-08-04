@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out

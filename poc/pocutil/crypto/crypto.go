@@ -9,7 +9,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/massnetorg/mass-core/poc/pocutil/crypto/hash"
+	"github.com/ylpool/mass-core/poc/pocutil/crypto/hash"
 )
 
 // Hash identifies a cryptographic hash function that is implemented in another

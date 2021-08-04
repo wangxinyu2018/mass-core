@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"errors"
 
-	"github.com/massnetorg/mass-core/poc/pocutil/crypto/sha256"
+	"github.com/ylpool/mass-core/poc/pocutil/crypto/sha256"
 )
 
 // ErrInvalidHashLength indicates the length of hash is invalid.

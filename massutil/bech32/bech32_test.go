@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/massnetorg/mass-core/massutil/bech32"
+	"github.com/ylpool/mass-core/massutil/bech32"
 )
 
 func TestBech32(t *testing.T) {

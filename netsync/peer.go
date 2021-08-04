@@ -5,13 +5,13 @@ import (
 	"net"
 	"sync"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/ccache"
-	"github.com/massnetorg/mass-core/p2p/trust"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/consensus"
+	"github.com/ylpool/mass-core/errors"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/massutil/ccache"
+	"github.com/ylpool/mass-core/p2p/trust"
+	"github.com/ylpool/mass-core/wire"
 	set "gopkg.in/fatih/set.v0"
 )
 

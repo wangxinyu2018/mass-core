@@ -3,9 +3,9 @@ package state
 import (
 	"fmt"
 
-	"github.com/massnetorg/mass-core/trie"
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb"
+	"github.com/ylpool/mass-core/trie"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/trie/massdb"
 )
 
 // Database wraps access to tries and contract code.

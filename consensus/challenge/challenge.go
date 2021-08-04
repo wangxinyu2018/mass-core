@@ -3,7 +3,7 @@ package challenge
 import (
 	"errors"
 
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/wire"
 )
 
 const (

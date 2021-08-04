@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/consensus/difficulty"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/consensus/difficulty"
+	"github.com/ylpool/mass-core/poc"
+	"github.com/ylpool/mass-core/wire"
 )
 
 func TestCalcNextRequiredDifficulty(t *testing.T) {

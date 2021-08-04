@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/txscript"
+	"github.com/ylpool/mass-core/wire"
 )
 
 type TxInput struct {

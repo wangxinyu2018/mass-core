@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/massutil"
 )
 
 // BlockProgressLogger provides periodic logging for other services in order

@@ -2,13 +2,13 @@ package config
 
 import (
 	"encoding/hex"
-	"github.com/massnetorg/mass-core/interfaces"
+	"github.com/ylpool/mass-core/interfaces"
 	"math/big"
 	"time"
 
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/pocec"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/poc"
+	"github.com/ylpool/mass-core/pocec"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // genesisCoinbaseTx is the coinbase transaction for genesis block

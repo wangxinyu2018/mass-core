@@ -1,9 +1,9 @@
 package rawdb
 
 import (
-	"github.com/massnetorg/mass-core/trie/massdb"
-	"github.com/massnetorg/mass-core/trie/massdb/leveldb"
-	"github.com/massnetorg/mass-core/trie/massdb/memorydb"
+	"github.com/ylpool/mass-core/trie/massdb"
+	"github.com/ylpool/mass-core/trie/massdb/leveldb"
+	"github.com/ylpool/mass-core/trie/massdb/memorydb"
 )
 
 // nofreezedb is a database wrapper that disables freezer data retrievals.

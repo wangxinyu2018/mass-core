@@ -9,10 +9,10 @@ import (
 	"errors"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/wire"
 )
 
 func init() {

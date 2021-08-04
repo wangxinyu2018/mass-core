@@ -7,11 +7,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/massnetorg/mass-core/interfaces"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/poc/chiapos"
-	"github.com/massnetorg/mass-core/pocec"
-	wirepb "github.com/massnetorg/mass-core/wire/pb"
+	"github.com/ylpool/mass-core/interfaces"
+	"github.com/ylpool/mass-core/poc"
+	"github.com/ylpool/mass-core/poc/chiapos"
+	"github.com/ylpool/mass-core/pocec"
+	wirepb "github.com/ylpool/mass-core/wire/pb"
 )
 
 func init() {

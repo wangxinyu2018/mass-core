@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/massnetorg/mass-core/txscript"
+	"github.com/ylpool/mass-core/txscript"
 )
 
 // TestScriptBuilderAddOp tests that pushing opcodes to a script via the

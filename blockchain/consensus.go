@@ -4,10 +4,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/consensus/challenge"
-	"github.com/massnetorg/mass-core/consensus/difficulty"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/consensus/challenge"
+	"github.com/ylpool/mass-core/consensus/difficulty"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // CalcNextChallenge calculates the required challenge for the block

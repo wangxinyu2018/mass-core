@@ -8,11 +8,11 @@ import (
 	"sort"
 	"time"
 
-	"github.com/massnetorg/mass-core/blockchain/state"
-	"github.com/massnetorg/mass-core/consensus/forks"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/blockchain/state"
+	"github.com/ylpool/mass-core/consensus/forks"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // SequenceLock represents the converted relative lock-time in seconds, and

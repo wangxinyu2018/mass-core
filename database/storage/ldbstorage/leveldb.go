@@ -1,8 +1,8 @@
 package ldbstorage
 
 import (
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/ylpool/mass-core/database/storage"
+	"github.com/ylpool/mass-core/logging"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/filter"
 	"github.com/syndtr/goleveldb/leveldb/iterator"

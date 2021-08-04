@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/massnetorg/mass-core/database/storage"
+	"github.com/ylpool/mass-core/database/storage"
 )
 
 func TestBytesPrefix(t *testing.T) {

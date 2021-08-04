@@ -5,10 +5,10 @@ import (
 	"testing"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/safetype"
-	"github.com/massnetorg/mass-core/txscript"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/massutil/safetype"
+	"github.com/ylpool/mass-core/txscript"
 	"github.com/stretchr/testify/assert"
 )
 

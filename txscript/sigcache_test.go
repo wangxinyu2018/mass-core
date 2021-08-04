@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // genRandomSig returns a random message, public key, and a signature of the

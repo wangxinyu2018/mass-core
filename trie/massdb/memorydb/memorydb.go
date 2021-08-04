@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/trie/massdb"
 )
 
 var (

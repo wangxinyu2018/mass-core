@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/massnetorg/mass-core/config"
+	"github.com/ylpool/mass-core/config"
 	"github.com/stretchr/testify/assert"
 )
 

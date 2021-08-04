@@ -3,7 +3,7 @@ package ldb_test
 import (
 	"testing"
 
-	"github.com/massnetorg/mass-core/database/ldb"
+	"github.com/ylpool/mass-core/database/ldb"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,15 +6,15 @@ import (
 	"math"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/debug"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
-	wirepb "github.com/massnetorg/mass-core/wire/pb"
+	"github.com/ylpool/mass-core/database"
+	"github.com/ylpool/mass-core/database/storage"
+	"github.com/ylpool/mass-core/debug"
+	"github.com/ylpool/mass-core/errors"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/txscript"
+	"github.com/ylpool/mass-core/wire"
+	wirepb "github.com/ylpool/mass-core/wire/pb"
 )
 
 var (

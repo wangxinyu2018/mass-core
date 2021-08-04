@@ -10,7 +10,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/massnetorg/mass-core/poc/pocutil/crypto/sha256"
+	"github.com/ylpool/mass-core/poc/pocutil/crypto/sha256"
 )
 
 func ExampleSum256() {

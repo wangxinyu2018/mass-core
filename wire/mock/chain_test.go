@@ -10,12 +10,12 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/poc/pocutil"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
-	wirepb "github.com/massnetorg/mass-core/wire/pb"
+	"github.com/ylpool/mass-core/consensus"
+	"github.com/ylpool/mass-core/poc"
+	"github.com/ylpool/mass-core/poc/pocutil"
+	"github.com/ylpool/mass-core/txscript"
+	"github.com/ylpool/mass-core/wire"
+	wirepb "github.com/ylpool/mass-core/wire/pb"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -10,12 +10,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/database/ldb"
-	"github.com/massnetorg/mass-core/database/storage"
-	_ "github.com/massnetorg/mass-core/database/storage/ldbstorage"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/database/ldb"
+	"github.com/ylpool/mass-core/database/storage"
+	_ "github.com/ylpool/mass-core/database/storage/ldbstorage"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/wire"
 	"github.com/stretchr/testify/assert"
 )
 

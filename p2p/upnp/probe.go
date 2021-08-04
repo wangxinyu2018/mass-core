@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/ylpool/mass-core/logging"
 )
 
 type UPNPCapabilities struct {

@@ -10,7 +10,7 @@ import (
 	"sync"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // sigInfo represents an entry in the SigCache. Entries in the sigcache are a

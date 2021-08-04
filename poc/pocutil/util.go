@@ -2,10 +2,10 @@ package pocutil
 
 import (
 	"encoding/binary"
-	"github.com/massnetorg/mass-core/interfaces"
+	"github.com/ylpool/mass-core/interfaces"
 	"math/big"
 
-	"github.com/massnetorg/mass-core/pocec"
+	"github.com/ylpool/mass-core/pocec"
 )
 
 // CutBigInt cuts big.Int to uint64, masking result to bitLength value.

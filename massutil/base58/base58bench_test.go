@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/massnetorg/mass-core/massutil/base58"
+	"github.com/ylpool/mass-core/massutil/base58"
 )
 
 func BenchmarkBase58Encode(b *testing.B) {

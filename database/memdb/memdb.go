@@ -1,9 +1,9 @@
 package memdb
 
 import (
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/ldb"
-	dbstorage "github.com/massnetorg/mass-core/database/storage"
+	"github.com/ylpool/mass-core/database"
+	"github.com/ylpool/mass-core/database/ldb"
+	dbstorage "github.com/ylpool/mass-core/database/storage"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 	"github.com/syndtr/goleveldb/leveldb/opt"

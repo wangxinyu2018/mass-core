@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/trie/common"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/trie/common"
 )
 
 var (

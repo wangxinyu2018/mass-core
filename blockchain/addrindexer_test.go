@@ -7,11 +7,11 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/ldb"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/database"
+	"github.com/ylpool/mass-core/database/ldb"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/txscript"
+	"github.com/ylpool/mass-core/wire"
 	"github.com/stretchr/testify/assert"
 )
 

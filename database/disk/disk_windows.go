@@ -5,7 +5,7 @@ package disk
 import (
 	"unsafe"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/ylpool/mass-core/logging"
 	"golang.org/x/sys/windows"
 )
 

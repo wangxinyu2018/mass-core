@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/massnetorg/mass-core/pocec"
+	"github.com/ylpool/mass-core/pocec"
 	"github.com/stretchr/testify/require"
 )
 

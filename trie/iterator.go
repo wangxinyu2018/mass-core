@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/trie/massdb"
 )
 
 // Iterator is a key-value trie iterator that traverses a Trie.

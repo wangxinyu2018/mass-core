@@ -8,14 +8,14 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/ldb"
-	_ "github.com/massnetorg/mass-core/database/ldb"
-	_ "github.com/massnetorg/mass-core/database/memdb"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/database"
+	"github.com/ylpool/mass-core/database/ldb"
+	_ "github.com/ylpool/mass-core/database/ldb"
+	_ "github.com/ylpool/mass-core/database/memdb"
+	"github.com/ylpool/mass-core/errors"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // testDbRoot is the root directory used to create all test databases.

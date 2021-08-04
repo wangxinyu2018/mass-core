@@ -3,10 +3,10 @@ package forks
 import (
 	"fmt"
 
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/safetype"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/consensus"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/massutil/safetype"
+	"github.com/ylpool/mass-core/wire"
 )
 
 type StakingNode interface {

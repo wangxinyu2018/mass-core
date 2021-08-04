@@ -8,8 +8,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc/pocutil"
-	"github.com/massnetorg/mass-core/pocec"
+	"github.com/ylpool/mass-core/poc/pocutil"
+	"github.com/ylpool/mass-core/pocec"
 )
 
 func TestCutBigInt(t *testing.T) {

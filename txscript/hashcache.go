@@ -8,7 +8,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // TxSigHashes houses the partial set of sighashes introduced within BIP0143.

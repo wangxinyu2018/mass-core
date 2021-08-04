@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"math/big"
 
-	"github.com/massnetorg/mass-core/poc/chiapos"
-	"github.com/massnetorg/mass-core/poc/pocutil"
+	"github.com/ylpool/mass-core/poc/chiapos"
+	"github.com/ylpool/mass-core/poc/pocutil"
 )
 
 const massProofByteLength = 17

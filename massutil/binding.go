@@ -9,11 +9,11 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/poc"
-	"github.com/massnetorg/mass-core/poc/chiapos"
-	"github.com/massnetorg/mass-core/poc/pocutil"
-	"github.com/massnetorg/mass-core/pocec"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/poc"
+	"github.com/ylpool/mass-core/poc/chiapos"
+	"github.com/ylpool/mass-core/poc/pocutil"
+	"github.com/ylpool/mass-core/pocec"
 )
 
 const bindingListFileMaxByteSize = 100 * poc.MiB

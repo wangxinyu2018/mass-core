@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/ylpool/mass-core/logging"
 	gowire "github.com/massnetorg/tendermint/go-wire"
 	cmn "github.com/massnetorg/tendermint/tmlibs/common"
 )

@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/massnetorg/mass-core/blockchain/state"
-	"github.com/massnetorg/mass-core/consensus/forks"
-	"github.com/massnetorg/mass-core/interfaces"
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/blockchain/state"
+	"github.com/ylpool/mass-core/consensus/forks"
+	"github.com/ylpool/mass-core/interfaces"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/wire"
 )
 
 const (

@@ -1,9 +1,9 @@
 package ldb
 
 import (
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/database/storage"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/wire"
 )
 
 // LBatch represents batch for submitting block/addrIndex

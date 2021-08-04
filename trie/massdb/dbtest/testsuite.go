@@ -22,7 +22,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/massnetorg/mass-core/trie/massdb"
+	"github.com/ylpool/mass-core/trie/massdb"
 )
 
 // TestDatabaseSuite runs a suite of tests against a KeyValueStore database

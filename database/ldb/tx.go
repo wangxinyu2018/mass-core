@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/massnetorg/mass-core/database"
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/debug"
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/database"
+	"github.com/ylpool/mass-core/database/storage"
+	"github.com/ylpool/mass-core/debug"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/wire"
 )
 
 type txUpdateObj struct {

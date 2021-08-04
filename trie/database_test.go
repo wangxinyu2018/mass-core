@@ -3,8 +3,8 @@ package trie
 import (
 	"testing"
 
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb/memorydb"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/trie/massdb/memorydb"
 )
 
 // Tests that the trie database returns a missing trie node error if attempting

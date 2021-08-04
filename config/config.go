@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/consensus"
+	"github.com/ylpool/mass-core/wire"
 )
 
 const (

@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/massnetorg/mass-core/consensus"
-	. "github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/safetype"
+	"github.com/ylpool/mass-core/consensus"
+	. "github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/massutil/safetype"
 	"github.com/stretchr/testify/assert"
 )
 

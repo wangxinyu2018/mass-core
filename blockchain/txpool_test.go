@@ -10,13 +10,13 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/massnetorg/mass-core/config"
-	"github.com/massnetorg/mass-core/consensus"
-	"github.com/massnetorg/mass-core/errors"
-	"github.com/massnetorg/mass-core/massutil"
-	"github.com/massnetorg/mass-core/massutil/safetype"
-	"github.com/massnetorg/mass-core/txscript"
-	"github.com/massnetorg/mass-core/wire"
+	"github.com/ylpool/mass-core/config"
+	"github.com/ylpool/mass-core/consensus"
+	"github.com/ylpool/mass-core/errors"
+	"github.com/ylpool/mass-core/massutil"
+	"github.com/ylpool/mass-core/massutil/safetype"
+	"github.com/ylpool/mass-core/txscript"
+	"github.com/ylpool/mass-core/wire"
 )
 
 var testTx = &wire.MsgTx{

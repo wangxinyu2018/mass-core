@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/massnetorg/mass-core/poc/pocutil"
-	"github.com/massnetorg/mass-core/testutil"
+	"github.com/ylpool/mass-core/poc/pocutil"
+	"github.com/ylpool/mass-core/testutil"
 )
 
 func TestMASSHash_String(t *testing.T) {

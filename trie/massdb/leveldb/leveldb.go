@@ -26,9 +26,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/massnetorg/mass-core/logging"
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb"
+	"github.com/ylpool/mass-core/logging"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/trie/massdb"
 
 	// "github.com/ethereum/go-ethereum/metrics"
 	"github.com/syndtr/goleveldb/leveldb"

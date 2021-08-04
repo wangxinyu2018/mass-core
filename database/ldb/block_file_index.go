@@ -5,9 +5,9 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/massnetorg/mass-core/database/disk"
-	"github.com/massnetorg/mass-core/database/storage"
-	"github.com/massnetorg/mass-core/massutil"
+	"github.com/ylpool/mass-core/database/disk"
+	"github.com/ylpool/mass-core/database/storage"
+	"github.com/ylpool/mass-core/massutil"
 )
 
 var (

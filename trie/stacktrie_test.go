@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/massnetorg/mass-core/trie/common"
-	"github.com/massnetorg/mass-core/trie/massdb/memorydb"
+	"github.com/ylpool/mass-core/trie/common"
+	"github.com/ylpool/mass-core/trie/massdb/memorydb"
 )
 
 func TestSizeBug(t *testing.T) {

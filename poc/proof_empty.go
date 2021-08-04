@@ -3,7 +3,7 @@ package poc
 import (
 	"math/big"
 
-	"github.com/massnetorg/mass-core/poc/pocutil"
+	"github.com/ylpool/mass-core/poc/pocutil"
 )
 
 type EmptyProof struct{}

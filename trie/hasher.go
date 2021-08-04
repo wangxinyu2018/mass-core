@@ -5,7 +5,7 @@ import (
 	"sync"
 
 	"golang.org/x/crypto/sha3"
-	"github.com/massnetorg/mass-core/logging"
+	"github.com/ylpool/mass-core/logging"
 )
 
 type sliceBuffer []byte
