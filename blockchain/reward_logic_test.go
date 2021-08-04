@@ -1,7 +1,6 @@
 package blockchain
 
 import (
-	"fmt"
 	"strings"
 	"testing"
 
@@ -9,7 +8,6 @@ import (
 	"github.com/massnetorg/mass-core/consensus"
 	"github.com/massnetorg/mass-core/massutil"
 	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
 )
 
 func TestCalcBlockSubsidy(t *testing.T) {
@@ -219,30 +217,30 @@ func TestMASSIP2CalcBlockSubsidy(t *testing.T) {
 	}
 }
 
-func ExampleCalcBlockSubsidy(t *testing.T) {
-	for i := uint64(1404798); i <= 1404802; i++ {
-		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
-		require.NoError(t, err)
-		fmt.Println(i, miner, node)
-	}
-	fmt.Println("-------------------")
-	for i := uint64(1480318); i <= 1480322; i++ {
-		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
-		require.NoError(t, err)
-		fmt.Println(i, miner, node)
-	}
-	fmt.Println("-------------------")
-	for i := uint64(56100478); i <= 56100482; i++ {
-		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
-		require.NoError(t, err)
-		fmt.Println(i, miner, node)
-	}
-	fmt.Println("-------------------")
-	for i := uint64(111150718); i <= 111150722; i++ {
-		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
-		require.NoError(t, err)
-		fmt.Println(i, miner, node)
-	}
+//func ExampleCalcBlockSubsidy(t *testing.T) {
+//	for i := uint64(1404798); i <= 1404802; i++ {
+//		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
+//		require.NoError(t, err)
+//		fmt.Println(i, miner, node)
+//	}
+//	fmt.Println("-------------------")
+//	for i := uint64(1480318); i <= 1480322; i++ {
+//		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
+//		require.NoError(t, err)
+//		fmt.Println(i, miner, node)
+//	}
+//	fmt.Println("-------------------")
+//	for i := uint64(56100478); i <= 56100482; i++ {
+//		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
+//		require.NoError(t, err)
+//		fmt.Println(i, miner, node)
+//	}
+//	fmt.Println("-------------------")
+//	for i := uint64(111150718); i <= 111150722; i++ {
+//		miner, node, err := CalcBlockSubsidy(i, &config.ChainParams, true, true)
+//		require.NoError(t, err)
+//		fmt.Println(i, miner, node)
+//	}
 
 	// Output
 	// 1404798 3 MASS 3 MASS
@@ -268,4 +266,4 @@ func ExampleCalcBlockSubsidy(t *testing.T) {
 	// 111150720 0.225 MASS 0.025 MASS
 	// 111150721 0 MASS 0 MASS
 	// 111150722 0 MASS 0 MASS
-}
+

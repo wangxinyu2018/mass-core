@@ -67,8 +67,8 @@ var genesisBlock = wire.MsgBlock{
 }
 
 var genesisHash = mustDecodeHash("ee26300e0f068114a680a772e080507c0f9c0ca4335c382c42b78e2eafbebaa3")
-
-var genesisChainID = mustDecodeHash("5433524b370b149007ba1d06225b5d8e53137a041869834cff5860b02bebc5c7")
+//5433524b370b149007ba1d06225b5d8e53137a041869834cff5860b02bebc5c7
+var genesisChainID = mustDecodeHash("5433524b370b149007ba1d06225b5d8e53137a041869834cff5860b02bebc5c8")
 
 func hexToBigInt(str string) *big.Int {
 	return new(big.Int).SetBytes(mustDecodeString(str))
